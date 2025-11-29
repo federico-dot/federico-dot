@@ -1,16 +1,42 @@
-## Hi there 👋
+# Ciao, sono Federico 👋
 
-<!--
-**federico-dot/federico-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sviluppatore full-stack 💻 | Appassionato di **Java, Spring Boot, JavaScript, Angular, React, Vue, HTML, CSS, MySQL e Firebase** 🚀  
+Sempre pronto a imparare e sperimentare nuove tecnologie!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologie e Linguaggi
+
+- **Frontend:** HTML, CSS, JavaScript, Angular, React, Vue  
+- **Backend:** Java, Spring Boot, Node.js  
+- **Database:** MySQL, Firebase, MongoDB  
+- **Strumenti:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 💻 Progetti in evidenza
+
+| Progetto | Descrizione | Stato |
+|----------|-------------|-------|
+| Portfolio Personale | Sito per mostrare i miei progetti e skill | In corso |
+| Chatter | Chat multipiattaforma PWA con Firebase e supporto offline | In corso |
+| Demo App | Piccola applicazione dimostrativa per testare funzionalità | In corso |
+
+---
+
+## 📊 Statistiche GitHub
+
+![Top Languages](https://img.shields.io/badge/Top%20Langs-Java%20%7C%20JS%20%7C%20HTML%20%7C%20CSS-blue)
+![GitHub Followers](https://img.shields.io/badge/Followers-0-blue)
+
+---
+
+## 📫 Contatti
+
+- Email: `federicocresci62@gmail.com`  
+- LinkedIn: [linkedin.com/in/federico](https://linkedin.com/in/federico)  
+- Portfolio: [tuoportfolio.com](https://tuoportfolio.com)  
+
+---
+
+> “Sempre curiosi, sempre a imparare.” 🚀
