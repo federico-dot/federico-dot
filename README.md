@@ -8,7 +8,7 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 ## 🛠 Tecnologie e Linguaggi
 
 - **Frontend:** HTML, CSS, JavaScript, Angular, React, Vue  
-- **Backend:** Java, Spring Boot, Node.js  
+- **Backend:** Java, Spring Boot, Python, Node.js  
 - **Database:** MySQL, Firebase, MongoDB  
 - **Strumenti:** Git, GitHub, VS Code, Postman  
 
@@ -18,10 +18,10 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 
 | Progetto | Descrizione | Stato |
 |----------|-------------|-------|
-| Portfolio Personale | Sito per mostrare i miei progetti e skill | In corso |
-| Chatter | Chat multipiattaforma PWA con Firebase e supporto offline | In corso |
-| Demo App | Piccola applicazione dimostrativa per testare funzionalità | In corso |
-| Sistema di Gestione Veicoli Condivisi|| In corso |
+| Portfolio Personale | Sito per mostrare i miei progetti e skill | ⚠️ In corso |
+| Chatter | Chat multipiattaforma PWA con Firebase e supporto offline | ⚠️ In corso |
+| Demo App | Piccola applicazione dimostrativa per testare funzionalità | ⚠️ In corso |
+| Sistema di Gestione Veicoli Condivisi| Piccola applicazione per la gestione di un Sistema automatico con gestione di Utenti più Veicoli e gestione automatica delle prenotazioni concorrenti e utilizzo di Thread per il download della fattura (pdf) | ⚠️ In corso |
 
 ---
 
