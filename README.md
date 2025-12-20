@@ -34,7 +34,8 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 
 ## 📫 Contatti
 
-- Email: `federicocresci62@gmail.com`  
+- Email: `federicocresci62@gmail.com`
+- Email Colloqui: `federicocresci63coll@gmail.com`
 - LinkedIn: [[linkedin.com/in/federico](https://linkedin.com/in/federico)  ](https://www.linkedin.com/in/federico-cresci-b5853830b/)
 - Portfolio: [tuoportfolio.com](https://tuoportfolio.com)  
 
