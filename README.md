@@ -21,6 +21,7 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 | Portfolio Personale | Sito per mostrare i miei progetti e skill | In corso |
 | Chatter | Chat multipiattaforma PWA con Firebase e supporto offline | In corso |
 | Demo App | Piccola applicazione dimostrativa per testare funzionalità | In corso |
+| Sistema di Gestione Veicoli Condivisi|| In corso |
 
 ---
 
