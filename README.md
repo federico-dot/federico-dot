@@ -27,7 +27,7 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 
 ## 📊 Statistiche GitHub
 
-![Top Languages](https://img.shields.io/badge/Top%20Langs-Java%20%7C%20JS%20%7C%20HTML%20%7C%20CSS-blue)
+![Top Languages](https://img.shields.io/badge/Top%20Langs-Java%20%7C%20ANGULAR%20JS%20%7C%20HTML%20%7C%20CSS-blue)
 ![GitHub Followers](https://img.shields.io/badge/Followers-0-blue)
 
 ---
