@@ -8,9 +8,9 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 ## 🛠 Tecnologie e Linguaggi
 
 - **Frontend:** HTML, CSS, JavaScript, Angular, React, Vue  
-- **Backend:** Java, Spring Boot, Python, Node.js  
+- **Backend:** Java, Spring Boot, Python, Node.js,Swirft
 - **Database:** MySQL, Firebase, MongoDB  
-- **Strumenti:** Git, GitHub, VS Code, Postman  
+- **Strumenti:** Git, GitHub, VS Code, Postman, Docker, e altri
 
 ---
 
@@ -34,8 +34,8 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 
 ## 📫 Contatti
 
-- Email: `federicocresci62@gmail.com`
-- Email Colloqui: `federicocresci63coll@gmail.com`
+- Email Personale: `federicocresci62@gmail.com`
+- Email Colloqui: `federicocresci.dev@gmail.com`
 - LinkedIn: [[linkedin.com/in/federico](https://linkedin.com/in/federico)  ](https://www.linkedin.com/in/federico-cresci-b5853830b/)
 - Portfolio: [tuoportfolio.com](https://tuoportfolio.com)  
 
