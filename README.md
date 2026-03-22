@@ -18,7 +18,7 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 
 | Progetto | Descrizione | Stato |
 |----------|-------------|-------|
-| Portfolio Personale | Sito per mostrare i miei progetti e skill | ⚠️ In corso |
+| Portfolio Personale | Sito per mostrare i miei progetti e skill | ⚠️ quasi completato (mancano i progetti) |
 | Chatter | Chat multipiattaforma PWA con Firebase e supporto offline | ⚠️ In corso |
 | Demo App | Piccola applicazione dimostrativa per testare funzionalità | ⚠️ In corso |
 | Sistema di Gestione Veicoli Condivisi| Piccola applicazione per la gestione di un Sistema automatico con gestione di Utenti più Veicoli e gestione automatica delle prenotazioni concorrenti e utilizzo di Thread per il download della fattura (pdf) | ⚠️ In corso |
