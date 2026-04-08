@@ -25,17 +25,10 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 
 ---
 
-## 📊 Statistiche GitHub
-
-![Top Languages](https://img.shields.io/badge/Top%20Langs-Java%20%7C%20ANGULAR%20JS%20%7C%20HTML%20%7C%20CSS-blue)
-![GitHub Followers](https://img.shields.io/badge/Followers-0-blue)
-
----
-
 ## 📫 Contatti
 
 - Email Personale: `federicocresci62@gmail.com`
-- Email Colloqui: [`federicocresci.dev@gmail.com`] (malto:)
+- Email Colloqui: [federicocresci.dev@gmail.com](mailto:federicocresci.dev@gmail.com)
 - LinkedIn: Ecco il mio [Linkedin](https://www.linkedin.com/in/federico-cresci-b5853830b/)
 - Portfolio: [Ecco il mio Portfolio ](https://federico-dot.github.io/Portfolio/) 
 
