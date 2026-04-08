@@ -35,9 +35,9 @@ Sempre pronto a imparare e sperimentare nuove tecnologie!
 ## 📫 Contatti
 
 - Email Personale: `federicocresci62@gmail.com`
-- Email Colloqui: `federicocresci.dev@gmail.com`
-- LinkedIn: [[linkedin.com/in/federico](https://linkedin.com/in/federico)  ](https://www.linkedin.com/in/federico-cresci-b5853830b/)
-- Portfolio: [tuoportfolio.com](https://tuoportfolio.com)  
+- Email Colloqui: [`federicocresci.dev@gmail.com`] (malto:)
+- LinkedIn: Ecco il mio [Linkedin](https://www.linkedin.com/in/federico-cresci-b5853830b/)
+- Portfolio: [Ecco il mio Portfolio ](https://federico-dot.github.io/Portfolio/) 
 
 ---
 
